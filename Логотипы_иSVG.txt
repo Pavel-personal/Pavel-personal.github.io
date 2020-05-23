@@ -1,0 +1,35 @@
+https://image.online-convert.com/ru/convert-to-svg
+
+Копируешь весь блок с тегом, сохраняешь блокнотом в svg файл, далее любым редактором векторной графики (Illustrator,Inkscape,Gravit Designer) редактируешь как душе угодно, и размер и цвет и т.д.
+
+https://seeklogo.com/ - логотипы компаний на английском
+http://toplogos.ru/ - логотипы компаний на русском 
+https://turbologo.ru/ - сервис для создания логотипов 
+
+https://svgporn.com/    / !!!!
+
+https://fontawesome.com/cheatsheet - шрифтовые иконки
+https://www.webdesignerdepot.com/2015/01/free-download-60-business-icons-by-icons-mind/ - подборка из бизнес-иконок
+http://iconbird.com/ - сервис по подбору иконок
+https://www.flaticon.com/ - самый крутой сервис по иконкам 
+http://www.dejurka.ru/graphics/free_icon_font/ - подборка шрифтовых иконок 
+https://thenounproject.com/ - еще один сервис по иконкам
+http://fontello.com/ - собери свой иконочный шрифт     / !!!!!!!!!!!!!!
+
+iconarchive.com
+iconfinder.com
+
+https://materialdesignicons.com/ - иконки от гугла, (в оранжевых квадратиках от сообщества)
+
+https://iconmonstr.com/
+
+http://www.iconarchive.com/ 
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+как поменять фавикон, когда пользователь перешел на другую вкладку. Для этого мы будем использовать маленькую библиотеку I Miss You. 
+Ссылка на библиотеку:  (если на сайте используется jQuery)
+https://github.com/Bahlaouane-Hamza/I-Miss-You
+Генератор фавикон: http://www.favicon.by/
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+
